@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aakarsh-tech
-- 👀 I’m interested in web devlopment, app development, AL/ML, Cyber security
+- 👀 I’m interested in web devlopment, app development, AI/ML, Cyber security
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on...
 - 📫 How to reach me Linkedln
